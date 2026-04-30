@@ -7,9 +7,9 @@ http://husscom.com:8080/ministra/axsdft/132294
 http://husscom.com:8080/ministra/axsdft/132295
 #EXTINF:-1 tvg-id="" tvg-name="Es: La 2 FHD" tvg-logo="http://husscom.com:8080/images/22d8aad718c82778bf449700c48e19b2.png" group-title="TDT",Es: La 2 FHD
 http://husscom.com:8080/ministra/axsdft/132296
-#EXTINF:-1 tvg-id="" tvg-name="Es: Antena 3" tvg-logo="http://husscom.com:8080/images/7c57d9fb86b96647c11d622c84fb7539.png" group-title="TDT",Es: Antena 3
+#EXTINF:-1 tvg-id="" tvg-name="Es: Antena 3" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="TDT",Es: Antena 3
 http://husscom.com:8080/ministra/axsdft/132297
-#EXTINF:-1 tvg-id="" tvg-name="Es: Antena 3 FHD" tvg-logo="http://husscom.com:8080/images/7c57d9fb86b96647c11d622c84fb7539.png" group-title="TDT",Es: Antena 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Es: Antena 3 FHD" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="TDT",Es: Antena 3 FHD
 http://husscom.com:8080/ministra/axsdft/132298
 #EXTINF:-1 tvg-id="" tvg-name="Es: Cuatro HD" tvg-logo="http://husscom.com:8080/images/4c4029ef445d5489e6b8e4e012d8463b.png" group-title="TDT",Es: Cuatro HD
 http://husscom.com:8080/ministra/axsdft/132299
@@ -31,6 +31,8 @@ http://husscom.com:8080/ministra/axsdft/132312
 http://skynetdigital.us:8080/espanistv/uNUP5XEj7SBB/67484
 #EXTINF:-1 tvg-id="" tvg-name="Es: Nova HD" tvg-logo="http://husscom.com:8080/images/b499034ca4d04c141bf4e0fce548351a.jpg" group-title="TDT",Es: Nova HD
 http://husscom.com:8080/ministra/axsdft/132313
+#EXTINF:-1 tvg-id="" tvg-name="Es: Mega" tvg-logo="http://husscom.com:8080/images/4e401aad7a270a7be2fd4c11f48563c5.png" group-title="TDT",Es: mega
+http://skynetdigital.us:8080/espanistv/uNUP5XEj7SBB/447169
 #EXTINF:-1 tvg-id="" tvg-name="Es: Mega" tvg-logo="http://husscom.com:8080/images/4e401aad7a270a7be2fd4c11f48563c5.png" group-title="TDT",Es: mega
 http://husscom.com:8080/ministra/axsdft/132308
 #EXTINF:-1 tvg-id="" tvg-name="Es: Fdf | Factoria De Ficcion HD" tvg-logo="http://husscom.com:8080/images/5583c187a9c036ac6995afaea8cf57e7.png" group-title="TDT",Es: FDF | Factoria De Ficcion HD
@@ -124,9 +126,11 @@ http://husscom.com:8080/ministra/axsdft/132351
 #EXTINF:-1 tvg-id="" tvg-name="Es: M+ Accion HD" tvg-logo="http://husscom.com:8080/images/375a491183f09c4ff0701ee6743a9333.png" group-title="PREMIUM",Es: M+ Accion HD
 http://husscom.com:8080/ministra/axsdft/132343
 #EXTINF:-1 tvg-id="" tvg-name="Accion por M+ FHD" tvg-logo="https://i.postimg.cc/HL63psfd/Acci-n-por-Movistar-Plus-2023.png" group-title="PREMIUM",Accion por M+ FHD
-http://ultrax.online:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/236380
-#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Series 2 HD" tvg-logo="http://husscom.com:8080/images/ca9358b6629d17b3bafe5846227b22e0.png" group-title="PREMIUM",Es: M+ Series 2 HD
+http://tv.diablotv.net:8080/aquilinobatista/evYz8WELFx/161879
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Hits HD" tvg-logo="http://husscom.com:8080/images/ca9358b6629d17b3bafe5846227b22e0.png" group-title="PREMIUM",Es: M+ Hits HD
 http://husscom.com:8080/ministra/axsdft/132348
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Hits HD" tvg-logo="http://husscom.com:8080/images/ca9358b6629d17b3bafe5846227b22e0.png" group-title="PREMIUM",Es: M+ Hits HD
+http://tv.diablotv.net:8080/aquilinobatista/evYz8WELFx/8203
 #EXTINF:-1 tvg-id="" tvg-name="Es: M+ Drama HD" tvg-logo="http://husscom.com:8080/images/e402850d8aa7018647626032a69381da.png" group-title="PREMIUM",Es: M+ Drama HD
 http://husscom.com:8080/ministra/axsdft/132344
 #EXTINF:-1 tvg-id="" tvg-name="Es: M+ Comedia FHD" tvg-logo="http://husscom.com:8080/images/5fd887239be753eb6bbc6ff99a9a79e9.png" group-title="PREMIUM",Es: M+ Comedia FHD
@@ -245,6 +249,10 @@ http://skynetdigital.us:8080/espanistv/uNUP5XEj7SBB/67533
 http://skynetdigital.us:8080/espanistv/uNUP5XEj7SBB/397174
 #EXTINF:-1 tvg-id="" tvg-name="Cine Disney 24/7" tvg-logo="https://static.epg.best/es/DisneyXD.es.png" group-title="24/7",Cine Disney 24/7
 http://skynetdigital.us:8080/espanistv/uNUP5XEj7SBB/55849
+#EXTINF:-1 tvg-id="" tvg-name="ES: Futurama HD 24H" tvg-logo="https://i.pinimg.com/564x/0d/d6/db/0dd6db337c7e9e0416c43546bf2183fe.jpg" group-title="24/7",ES: Futurama HD 24H
+http://skynetdigital.us:8080/espanistv/uNUP5XEj7SBB/397173
+#EXTINF:-1 tvg-id="" tvg-name="ES: Los Simpsons La casa-árbol del terror HD 24H" tvg-logo="https://i.pinimg.com/736x/c2/87/6f/c2876f7606e6850d351484b46850a016.jpg" group-title="24/7",ES: Los Simpsons La casa-árbol del terror HD 24H
+http://skynetdigital.us:8080/espanistv/uNUP5XEj7SBB/397170
 #EXTINF:-1 tvg-id="" tvg-name="Fr: Canal+ Sport FHD" tvg-logo="http://husscom.com:8080/images/44d9e97f46bd9784bc6ac96fa9780899.png" group-title="INTERNACIONAL",Fr: Canal+ Sport FHD
 http://husscom.com:8080/ministra/axsdft/131100
 #EXTINF:-1 tvg-id="" tvg-name="FR: Dazn HD" tvg-logo="https://www.vectorlogo.es/wp-content/uploads/2019/12/logo-vector-dazn.jpg" group-title="INTERNACIONAL",FR: Dazn HD
