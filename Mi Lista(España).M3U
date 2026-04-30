@@ -33,7 +33,7 @@ http://skynetdigital.us:8080/espanistv/uNUP5XEj7SBB/67484
 http://husscom.com:8080/ministra/axsdft/132313
 #EXTINF:-1 tvg-id="" tvg-name="Es: Mega" tvg-logo="http://husscom.com:8080/images/4e401aad7a270a7be2fd4c11f48563c5.png" group-title="TDT",Es: mega
 http://skynetdigital.us:8080/espanistv/uNUP5XEj7SBB/447169
-#EXTINF:-1 tvg-id="" tvg-name="Es: Mega" tvg-logo="http://husscom.com:8080/images/4e401aad7a270a7be2fd4c11f48563c5.png" group-title="TDT",Es: mega
+#EXTINF:-1 tvg-id="" tvg-name="Es: Mega HD" tvg-logo="http://husscom.com:8080/images/4e401aad7a270a7be2fd4c11f48563c5.png" group-title="TDT",Es: mega
 http://husscom.com:8080/ministra/axsdft/132308
 #EXTINF:-1 tvg-id="" tvg-name="Es: Fdf | Factoria De Ficcion HD" tvg-logo="http://husscom.com:8080/images/5583c187a9c036ac6995afaea8cf57e7.png" group-title="TDT",Es: FDF | Factoria De Ficcion HD
 http://husscom.com:8080/ministra/axsdft/132310
@@ -125,11 +125,11 @@ http://husscom.com:8080/ministra/axsdft/132349
 http://husscom.com:8080/ministra/axsdft/132351
 #EXTINF:-1 tvg-id="" tvg-name="Es: M+ Accion HD" tvg-logo="http://husscom.com:8080/images/375a491183f09c4ff0701ee6743a9333.png" group-title="PREMIUM",Es: M+ Accion HD
 http://husscom.com:8080/ministra/axsdft/132343
-#EXTINF:-1 tvg-id="" tvg-name="Accion por M+ FHD" tvg-logo="https://i.postimg.cc/HL63psfd/Acci-n-por-Movistar-Plus-2023.png" group-title="PREMIUM",Accion por M+ FHD
+#EXTINF:-1 tvg-id="" tvg-name="Accion por M+ FHD" tvg-logo="http://husscom.com:8080/images/375a491183f09c4ff0701ee6743a9333.png" group-title="PREMIUM",Accion por M+ FHD
 http://tv.diablotv.net:8080/aquilinobatista/evYz8WELFx/161879
-#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Hits HD" tvg-logo="http://husscom.com:8080/images/ca9358b6629d17b3bafe5846227b22e0.png" group-title="PREMIUM",Es: M+ Hits HD
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg" group-title="PREMIUM",Es: M+ Hits
 http://husscom.com:8080/ministra/axsdft/132348
-#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Hits HD" tvg-logo="http://husscom.com:8080/images/ca9358b6629d17b3bafe5846227b22e0.png" group-title="PREMIUM",Es: M+ Hits HD
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg" group-title="PREMIUM",Es: M+ Hits HD
 http://tv.diablotv.net:8080/aquilinobatista/evYz8WELFx/8203
 #EXTINF:-1 tvg-id="" tvg-name="Es: M+ Drama HD" tvg-logo="http://husscom.com:8080/images/e402850d8aa7018647626032a69381da.png" group-title="PREMIUM",Es: M+ Drama HD
 http://husscom.com:8080/ministra/axsdft/132344
