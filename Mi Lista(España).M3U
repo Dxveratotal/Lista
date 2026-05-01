@@ -193,6 +193,8 @@ http://husscom.com:8080/ministra/axsdft/132273
 http://husscom.com:8080/ministra/axsdft/132403
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="Es: Dazn F1" tvg-logo="https://i.ibb.co/Q76p1tXw/f1.png" group-title="DAZN",Es: Dazn F1
 http://skynetdigital.us:8080/espanistv/uNUP5XEj7SBB/792687
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="Es: Dazn Moto GP" tvg-logo="https://contentful-asset-proxy.sd.indazn.com/vhp9jnid12wf/1yn9l7nGet0CYSt7pMJYNX/99d4f056bf081567b37f144e497487db/motogp.png?fm=webp&q=35" group-title="DAZN",Es: Dazn Moto GP
+http://skynetdigital.us:8080/espanistv/uNUP5XEj7SBB/67526
 #EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 1 FHD" tvg-logo="http://husscom.com:8080/images/b4221206e3bc9a0e594799a4c025a288.png" group-title="DAZN",ES: Dazn 1 FHD
 http://husscom.com:8080/ministra/axsdft/132394
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="ES: DAZN 1" tvg-logo="https://i.ibb.co/TMpHfs60/dz1.png" group-title="DAZN",ES: DAZN 1
@@ -253,6 +255,12 @@ http://skynetdigital.us:8080/espanistv/uNUP5XEj7SBB/55849
 http://skynetdigital.us:8080/espanistv/uNUP5XEj7SBB/397173
 #EXTINF:-1 tvg-id="" tvg-name="ES: Los Simpsons La casa-árbol del terror HD 24H" tvg-logo="https://i.pinimg.com/736x/c2/87/6f/c2876f7606e6850d351484b46850a016.jpg" group-title="24/7",ES: Los Simpsons La casa-árbol del terror HD 24H
 http://skynetdigital.us:8080/espanistv/uNUP5XEj7SBB/397170
+#EXTINF:-1 tvg-id="" tvg-name="ES: Los Simpsons 1" tvg-logo="https://image.tmdb.org/t/p/original/35AfqMTE4SfmwzsUe7yi5COtFPe.jpg" group-title="24/7",ES: Los Simpsons 1
+http://tv.diablotv.net:8080/aquilinobatista/evYz8WELFx/178834
+#EXTINF:-1 tvg-id="" tvg-name="ES: Los Simpsons 2" tvg-logo="https://image.tmdb.org/t/p/original/35AfqMTE4SfmwzsUe7yi5COtFPe.jpg" group-title="24/7",ES: Los Simpsons 1
+http://tv.diablotv.net:8080/aquilinobatista/evYz8WELFx/178836
+#EXTINF:-1 tvg-id="" tvg-name="ES: Los Simpsons 3" tvg-logo="https://image.tmdb.org/t/p/original/35AfqMTE4SfmwzsUe7yi5COtFPe.jpg" group-title="24/7",ES: Los Simpsons 1
+http://tv.diablotv.net:8080/aquilinobatista/evYz8WELFx/178839
 #EXTINF:-1 tvg-id="" tvg-name="Fr: Canal+ Sport FHD" tvg-logo="http://husscom.com:8080/images/44d9e97f46bd9784bc6ac96fa9780899.png" group-title="INTERNACIONAL",Fr: Canal+ Sport FHD
 http://husscom.com:8080/ministra/axsdft/131100
 #EXTINF:-1 tvg-id="" tvg-name="FR: Dazn HD" tvg-logo="https://www.vectorlogo.es/wp-content/uploads/2019/12/logo-vector-dazn.jpg" group-title="INTERNACIONAL",FR: Dazn HD
